@@ -1,0 +1,4 @@
+X="congratulations"
+print(X)
+X="CONGRATULATIONS"
+print(X)
